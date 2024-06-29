@@ -1,0 +1,101 @@
+.lc1169481f2f7d6eb1012adab4cd4d0c0e5469efa {
+    position: relative;
+    top: -6px;
+    color: #000;
+    font-size: 12px;
+    border-radius: 0 0 5px 5px;
+    background: url(/css/images/notfication-bg.png) repeat 0 0;
+    background-color: #eeee01;
+    transition: all .2s ease
+}
+
+.lc1169481f2f7d6eb1012adab4cd4d0c0e5469efa a {
+    color: #000;
+    display: inline-block;
+    padding: 18px 0 11px 66px
+}
+
+.lc1169481f2f7d6eb1012adab4cd4d0c0e5469efa .icon {
+    color: #000;
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    padding-top: 4px;
+    width: 40px;
+    text-align: center;
+    border-radius: 0 0 0 5px;
+    background: url(/css/images/notfication-bg.png) repeat 0 0;
+    background-color: #e6e600
+}
+
+.lc1169481f2f7d6eb1012adab4cd4d0c0e5469efa .icon i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -24%;
+    margin-top: -30%
+}
+
+.flaticon-le3842a919f44165a2f118483d695837255c04177:before {
+    content: "\f185"
+}
+
+.lc57f84ae7f0c99489cf1a39f041c0edd65c4310f.l1705aee68a4159adf6c8b5f55687c1a713f1edf1 {
+    position: relative;
+    padding: 4px 4px 4px 50px;
+    font-size: 15px;
+    width: 100%;
+    font-family: oswald bold, sans-serif;
+    text-transform: uppercase;
+    box-shadow: 0 5px 0 rgba(0, 0, 0, .5);
+    border-radius: 3px
+}
+
+.lc57f84ae7f0c99489cf1a39f041c0edd65c4310f {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    padding: 6px 12px;
+    font: 16px/1.42857143 'Oswald Regular';
+    border-radius: 4px;
+    user-select: none;
+    color: #333;
+    background-color: #fff;
+    border: 0;
+    transition: all .2s ease
+}
+
+.l205bbff6773622745e35a72913dce3ef116b840d {
+    color: #000;
+    background-color: #ff0
+}
+
+.l205bbff6773622745e35a72913dce3ef116b840d .icon {
+    background-color: #dcdc49
+}
+
+.l205bbff6773622745e35a72913dce3ef116b840d .icon:after {
+    border-left-color: #dcdc49
+}
+
+.l205bbff6773622745e35a72913dce3ef116b840d:hover {
+    background-color: #dcdc49
+}
+
+.l205bbff6773622745e35a72913dce3ef116b840d:focus,
+.l205bbff6773622745e35a72913dce3ef116b840d:active:focus {
+    background-color: #dcdc49
+}
+
+.torrent-detail {
+    background: url(images/detail-bg.jpg) repeat 0 0;
+    border-radius: 0 0 5px 5px;
+    margin: 0 14px 27px;
+    position: relative;
+    z-index: 1
+}
